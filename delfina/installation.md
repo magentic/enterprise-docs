@@ -1,8 +1,10 @@
 
 
-# Installation
+# DelfinaCare Installation
 
-To get the most out of FlowLens, you'll need to set up two components:
+This is a setup guide on how to join FlowLens for `DelfinaCare`'s self hosted solution. 
+
+> **Tip:** It only works with Delfina emails.
 
 ## Chrome Extension
 
@@ -10,7 +12,7 @@ The FlowLens Chrome extension is the primary tool for capturing user flows in yo
 
 ### Installation Steps
 
-1. **Download the Extension**: Visit the <a href="https://delfina-minio-api.magentic.ai/extension/flowlens-extension.zip" target="_blank" rel="noopener noreferrer">Delfina Bucket</a> and download the ZIP file.
+1. **Download Delfina's chrome extension from <a href="https://delfina-minio-api.magentic.ai/extension/flowlens-extension.zip" target="_blank" rel="noopener noreferrer">here</a>** 
 
 2. **Unzip the File**: Extract the contents of the ZIP file to a folder on your computer.
 
@@ -55,3 +57,7 @@ To check that the package is installed successfully:
 ```bash
 flowlens-mcp-server
 ```
+
+### [3] Setup VS Code Copilot 
+from <a href="https://delfina-flowlens.magentic.ai/flowlens/setup-wizard?tool=vscode" target="_blank" rel="noopener noreferrer">setup wizard</a>
+
